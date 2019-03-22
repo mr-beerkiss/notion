@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Binary","Represents a delegated binary executable."],["BinaryArgs","Represents the arguments needed for a binary executable Both the executable name and the arguments to pass to it"]]});
